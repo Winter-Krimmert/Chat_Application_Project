@@ -54,7 +54,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/Winter-Krimmert/Chat_Application_Project
 cd chat-app
 Install the required packages:
 
